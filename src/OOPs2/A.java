@@ -3,7 +3,7 @@ package OOPs2;
 public class A {
     String name;
 
-    A(){
+    protected A(){
     }
     A(String name){
         this.name = name;
